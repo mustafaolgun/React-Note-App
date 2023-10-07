@@ -17,4 +17,4 @@ This application was made by creating Vite-React.
 
 ## Live Demo
 
-https://mustafaolgun.io/React-Note-App
+https://mustafaolgun.github.io/React-Note-App/
